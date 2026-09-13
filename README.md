@@ -1,6 +1,6 @@
-### Heyy there!! &nbsp; <a href="https://emoji.gg/emoji/167678-bhacker"><img src="https://cdn3.emoji.gg/emojis/167678-bhacker.gif" width="64px" height="64px" alt="Bhacker"></a>
+# Heyy!! I'm Sandra &nbsp; <a href="https://emoji.gg/emoji/167678-bhacker"><img src="https://cdn3.emoji.gg/emojis/167678-bhacker.gif" width="64px" height="64px" alt="Bhacker"></a>
 
-I'm **Sandra S Thadathil**, a final-year **Computer Science** student at **Dalhousie University** in Halifax, NS. 
+I'm a final-year **Computer Science** student at **Dalhousie University** in Halifax, NS. 
 
 I've worked as a **Software Developer** at **RBC Capital Markets** for two co-op terms and as a Full-Stack Developer at **Dash Social**.
 
